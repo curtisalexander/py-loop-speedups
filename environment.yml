@@ -1,0 +1,11 @@
+name: loop-speedup
+dependencies:
+  - black
+  - bottleneck
+  - jupyter
+  - numexpr
+  - numpy
+  - pandas
+channels:
+  - conda-forge
+  - defaults
