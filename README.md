@@ -1,2 +1,2 @@
-# py-loop-speedups
+# 🐍 loop speedups
 Speeding up loops while working with dataframes
